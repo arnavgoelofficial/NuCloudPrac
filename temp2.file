@@ -1,3 +1,7 @@
 hello this is a change
 change3 in code
+<<<<<<< HEAD
 one more change for the repo (xD)
+=======
+this is another quick change // for the exercise
+>>>>>>> 5e0b1c28a45e25307d71422081caf380a6303203
